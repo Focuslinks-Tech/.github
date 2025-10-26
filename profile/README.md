@@ -155,10 +155,8 @@ Comprehensive server management, cloud infrastructure, and 24/7 monitoring.
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🛒 **E-Commerce Platform** | Full-featured online store | React, Node.js, MongoDB | ✅ Live |
-| 📊 **Analytics Dashboard** | Real-time data visualization | Vue.js, Python, PostgreSQL | ✅ Live |
-| 🏥 **Healthcare System** | Patient management platform | Next.js, Django, AWS | 🚧 In Progress |
-| 🎓 **Learning Management** | Online education platform | React, Express, MySQL | ✅ Live |
+|  **PHPNuxBill** | Hotspot Billing system | PHP, JavaScript, MySQL | ✅ Live |
+|  **Subscription Manager** | A comprehensive subscription management system  | Node.js, React, MongoDB | ✅ Live |
 
 </div>
 
@@ -217,16 +215,16 @@ We believe in building lasting relationships and providing continuous support.
 
 We're here to help you bring your ideas to life. Let's discuss how we can accelerate your digital transformation.
 
-[![Email Us](https://img.shields.io/badge/📧_Email_Us-hello@focuslinksdigital.com-00D9FF?style=for-the-badge)](mailto:hello@focuslinksdigital.com)
-[![Call Us](https://img.shields.io/badge/📞_Call_Us-+1_(555)_123--4567-00FF88?style=for-the-badge)](tel:+15551234567)
-[![Visit Website](https://img.shields.io/badge/🌐_Visit_Website-focuslinksdigital.com-B845FF?style=for-the-badge)](https://focuslinksdigital.com)
+[![Email Us](https://img.shields.io/badge/📧_Email_Us-hello@focuslinkstech.com.ng-00D9FF?style=for-the-badge)](mailto:hello@focuslinkstech.com.ng)
+[![Call Us](https://img.shields.io/badge/📞_Call_Us-+2348028079118-00FF88?style=for-the-badge)](tel:+15551234567)
+[![Visit Website](https://img.shields.io/badge/🌐_Visit_Website-focuslinkstech.com.ng-B845FF?style=for-the-badge)](https://focuslinkstech.com.ng)
 
 ### Connect With Us
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/focuslinks-digital)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/focuslinksdigital)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/focuslinkstech)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/focuslinkstech)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/focuslinkstech)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/focuslinksdigital)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/focuslinkstech)
 
 </div>
 
@@ -238,11 +236,11 @@ We're here to help you bring your ideas to life. Let's discuss how we can accele
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| 📚 Documentation | Comprehensive guides and API docs | [View Docs](https://docs.focuslinksdigital.com) |
-| 🎥 Tutorials | Video tutorials and walkthroughs | [Watch Videos](https://youtube.com/@focuslinksdigital) |
-| 💬 Community | Join our developer community | [Join Discord](https://discord.gg/focuslinks) |
-| 🐛 Issue Tracker | Report bugs and request features | [GitHub Issues](https://github.com/focuslinkstech/issues) |
-| 📝 Blog | Latest tech articles and updates | [Read Blog](https://blog.focuslinksdigital.com) |
+| Documentation | Comprehensive guides and API docs | [View Docs](https://docs.focuslinkstech.com.ng) |
+| Tutorials | Video tutorials and walkthroughs | [Watch Videos](https://youtube.com/@focuslinkstech) |
+| Community | Join our developer community | [Join Telegram](https://t.me/+91BVoQ-YC0Y5ZjE0) |
+| Issue Tracker | Report bugs and request features | [GitHub Issues](https://github.com/focuslinks-tech/issues) |
+| Blog | Latest tech articles and updates | [Read Blog](https://blog.focuslinkstech.com.ng) |
 
 </div>
 
