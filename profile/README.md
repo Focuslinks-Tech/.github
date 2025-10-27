@@ -262,7 +262,7 @@ See individual repositories for specific licensing information.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=120&section=footer"/>
 
-### 💙 Made with passion by FocusLinks Digital Solutions
+### 💙 Made with passion by Focuslinks Digital Solutions
 
 **© 2025 FocusLinks Digital Solutions. All Rights Reserved.**
 
