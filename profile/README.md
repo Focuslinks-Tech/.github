@@ -264,7 +264,7 @@ See individual repositories for specific licensing information.
 
 ### 💙 Made with passion by Focuslinks Digital Solutions
 
-**© 2025 FocusLinks Digital Solutions. All Rights Reserved.**
+**© 2025 Focuslinks Digital Solutions. All Rights Reserved.**
 
 *Transforming Ideas into Digital Excellence*
 
